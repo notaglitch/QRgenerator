@@ -19,7 +19,7 @@ Welcome to the **QR Code Generator Tool**! This simple Python tool allows you to
 Clone the repository to your local machine:
 
 ```bash
-git clone 
+git clone https://github.com/notaglitch/QRgenerator.git
 ```
 
 ### 2. **Install Required Libraries**
@@ -40,7 +40,7 @@ pip install qrcode[pil] pillow
 Navigate to the directory where the script is located, and run it:
 
 ```bash
-python qr_code_generator.py
+python qrgen.py
 ```
 
 ### 4. **Follow the Prompts**
@@ -136,12 +136,6 @@ pip install qrcode[pil] pillow
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Contributing
 
 Feel free to fork the repository and submit pull requests if you'd like to contribute. Suggestions for improvements and new features are always welcome!
@@ -152,6 +146,3 @@ Feel free to fork the repository and submit pull requests if you'd like to contr
 
 - This tool is for educational and personal use. Ensure you have permission to share or use QR codes for any links that require access control.
 
----
-
-Happy QR coding! 📱
